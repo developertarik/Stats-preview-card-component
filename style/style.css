@@ -101,8 +101,7 @@ body{
     position:relative;
     bottom:550px;
     left:650px;
-    background-color:hsl(277,64%,61%);
-    background-blend-mode:multiply;
+    
 
 }
 .image{
@@ -112,6 +111,8 @@ body{
     position:relative;
     bottom:160px;
     border-radius: 10px;
+    background-color:hsl(277,64%,61%);
+    background-blend-mode:multiply;
 
     
 }
